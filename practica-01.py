@@ -1,4 +1,7 @@
 
 
-for cadena in range(0,5):
-    print('Hello Word')
+num = 12
+numd = 14
+
+suma = num + numd
+print(suma)
